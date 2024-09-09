@@ -1,0 +1,10 @@
+C:\Users\Toan\source\repos\Simple NotePad\bin\Release\Simple NotePad.exe.config
+C:\Users\Toan\source\repos\Simple NotePad\bin\Release\Simple NotePad.exe
+C:\Users\Toan\source\repos\Simple NotePad\bin\Release\Simple NotePad.pdb
+C:\Users\Toan\source\repos\Simple NotePad\obj\Release\Simple NotePad.csproj.AssemblyReference.cache
+C:\Users\Toan\source\repos\Simple NotePad\obj\Release\Simple_NotePad.Form1.resources
+C:\Users\Toan\source\repos\Simple NotePad\obj\Release\Simple_NotePad.Properties.Resources.resources
+C:\Users\Toan\source\repos\Simple NotePad\obj\Release\Simple NotePad.csproj.GenerateResource.cache
+C:\Users\Toan\source\repos\Simple NotePad\obj\Release\Simple NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Toan\source\repos\Simple NotePad\obj\Release\Simple NotePad.exe
+C:\Users\Toan\source\repos\Simple NotePad\obj\Release\Simple NotePad.pdb
